@@ -1,2 +1,8 @@
 Pueden agregar cualquier tipo de archivo
 pero de preferencia nada que sea imagen y asi.
+
+Tienen una rama para cada uno, vamos a dejar la main como la principal.
+
+luidev
+levidev
+diñodev
