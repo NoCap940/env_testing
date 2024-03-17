@@ -7,6 +7,7 @@ import GithubIcon from '../components/icons/GithubIcon.astro'
 import Experience from '../components/Experience.astro'
 import SectionContainer from '../components/SectionContainer.astro'
 import Briefcase from '../components/Briefcase.astro'
+import Code from '../components/icons/Code.astro'
 ---
 
 <Layout title="Astro Porfolio">
@@ -47,6 +48,14 @@ import Briefcase from '../components/Briefcase.astro'
 			<h2 class="text-2xl font-semibold mb-6 flex justify-center gap-x-2 items-center">
 				<Briefcase class="size-6"/>
 				Proffesional Experience
+			</h2>
+			<Experience />
+		</SectionContainer>
+
+		<SectionContainer id="proyectos">
+			<h2 class="text-2xl font-semibold mb-6 flex justify-center gap-x-2 items-center">
+				<Code class="size-6"/>
+				Proyectos
 			</h2>
 			<Experience />
 		</SectionContainer>
