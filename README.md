@@ -12,6 +12,3 @@ Para el desarrollo de mi porfolio, se usan estas herramientas:
  - Node JS [**Entorno de Ejecucion**]
  - TailwindCSS [**CSS para el proyecto**]
 
-![ Actual Overview](https://flic.kr/p/2pDWQmR)
-
-https://flic.kr/p/2pDWQmR
