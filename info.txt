@@ -2,6 +2,7 @@ Pueden agregar cualquier tipo de archivo
 pero de preferencia nada que sea imagen y asi.
 
 Tienen una rama para cada uno, vamos a dejar la main como la principal.
+No hagan merge de mi rama[luidev] a sus ramas antes de preguntar, xd.
 
 luidev
 levidev
