@@ -11,3 +11,5 @@ Para el desarrollo de mi porfolio, se usan estas herramientas:
  - Fontsource [**Tipografia y fuentes**]
  - Node JS [**Entorno de Ejecucion**]
  - TailwindCSS [**CSS para el proyecto**]
+
+![ Actual Overview](https://flic.kr/p/2pDWQmR)
