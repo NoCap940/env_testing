@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
 import Badge from '../components/Badge.astro'
+import LinkedInIcon from '../components/icons/LinkedIn.astro'
 ---
 
 <Layout title="Astro Porfolio">
@@ -21,15 +22,22 @@ import Badge from '../components/Badge.astro'
 				target="_blank"
 				rel="noopener"
 				class="flex justify-center items-center">
-					<Badge>Developer</Badge>
+					<Badge>Junior Onboarding Developer</Badge>
 				</a>
 			</h1>
-			<h2 class="text-xl opacity-80">
+			<h2 class="text-xl opacity-80 text-wrap">
 				+1 año de experiencia en Desarrollo de software y Administracion de Servidores Linux.
 				Especializado en Arquitecturas Cloud, DevOps y Despliegue de Aplicaciones.
 			</h2>
-
-			<ul></ul>
+ 
+			<ul>
+				<li>
+					<a href="https://www.linkedin.com/in/luis-ramos-a149082a8/">
+						<LinkedInIcon class="w-6 h-6"></LinkedInIcon>
+						Linkedin
+					</a>
+				</li>
+			</ul>
 		</section>
 	</main>
 </Layout>
