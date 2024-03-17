@@ -12,3 +12,7 @@ Para el desarrollo de mi porfolio, se usan estas herramientas:
  - Node JS [**Entorno de Ejecucion**]
  - TailwindCSS [**CSS para el proyecto**]
 
+**Overview**
+
+<img width="550" alt="PortfolioLui" src="https://github.com/NoCap940/env_testing/assets/125859534/0d5d8a5c-54e7-4620-a78c-3e4a74d2991b">
+
