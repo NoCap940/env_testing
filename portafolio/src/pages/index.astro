@@ -1,8 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Card from '../components/Card.astro';
 import Badge from '../components/Badge.astro'
 import LinkedInIcon from '../components/icons/LinkedIn.astro'
+import SocialPill from '../components/SocialPill.astro'
+import GithubIcon from '../components/icons/GithubIcon.astro'
 ---
 
 <Layout title="Astro Porfolio">
@@ -30,14 +31,16 @@ import LinkedInIcon from '../components/icons/LinkedIn.astro'
 				Especializado en Arquitecturas Cloud, DevOps y Despliegue de Aplicaciones.
 			</h2>
  
-			<ul>
-				<li>
-					<a href="https://www.linkedin.com/in/luis-ramos-a149082a8/">
-						<LinkedInIcon class="w-6 h-6"></LinkedInIcon>
-						Linkedin
-					</a>
-				</li>
-			</ul>
+				<nav class="flex gap-x-2 mt-8">
+					<SocialPill href="https://www.linkedin.com/in/luis-ramos-a149082a8/" >
+						<LinkedInIcon class="w-6 h-6" />
+						LinkedIn
+					</SocialPill>
+					<SocialPill href="https://github.com/NoCap940">
+						<GithubIcon class="w-6 h-6" />
+						Github
+					</SocialPill>
+				</nav>
 		</section>
 	</main>
 </Layout>
